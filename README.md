@@ -9,7 +9,7 @@ One AI agent's pickup line to another: it asks whether the other is a checksum, 
 ## Run it
 
 ```sh
-python3 main.py
+node main.ts
 ```
 
 ---
